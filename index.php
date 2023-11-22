@@ -13,11 +13,24 @@
 
 <body>
 
-<div class="card p-5">
-    <div class="card-cody">
-        <h1 class="text-center" style="color: red"> UNDER CONSTRUCTION! </h1>
+    <div class="card m-5">
+        <div class="card-header">
+            <h1 class="text-center" style="color: red"> UNDER CONSTRUCTION! </h1>
+        </div>
+        <div class="card-body">
+            <div class="container">
+                <div class="row d-flex justify-content-center align-items-center">
+                    <div class="col-auto">
+                        <a href="https://www.instagram.com/resaka.xmp" target="blank">
+                            <button type="button" class="btn btn-primary">
+                                Visit my Instagram!
+                            </button>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
-</div>
 
 </body>
 
